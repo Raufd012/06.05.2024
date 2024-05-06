@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|c:\\users\\user\\onedrive\\desktop\\c# task home\\pronia\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|c:\\users\\user\\onedrive\\desktop\\c# task home\\pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|c:\\users\\user\\onedrive\\desktop\\c# task home\\pronia\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|c:\\users\\user\\onedrive\\desktop\\c# task home\\pronia\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|c:\\users\\user\\onedrive\\desktop\\c# task home\\pronia\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|c:\\users\\user\\onedrive\\desktop\\c# task home\\pronia\\pronia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|solutionrelative:pronia\\pronia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|c:\\users\\user\\onedrive\\desktop\\c# task home\\pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|solutionrelative:pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|c:\\users\\user\\onedrive\\desktop\\c# task home\\pronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|c:\\users\\user\\onedrive\\desktop\\c# task home\\pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB34889E-0C18-4F2F-AE8E-E0765F165C22}|Pronia\\Pronia.csproj|solutionrelative:pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAAFEDAAAAAAAAAAAawGADAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T18:54:10.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pronia\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:53:03.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:23:38.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAHADAAAAAAAAAAAawH8DAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:13:01.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T15:32:02.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T14:59:07.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pronia.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Pronia.csproj",
+              "RelativeDocumentMoniker": "Pronia\\Pronia.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Pronia.csproj",
+              "RelativeToolTip": "Pronia\\Pronia.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T15:03:14.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T14:59:52.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Program.cs",
+              "RelativeDocumentMoniker": "Pronia\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Task home\\Pronia\\Program.cs",
+              "RelativeToolTip": "Pronia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:56:26.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
